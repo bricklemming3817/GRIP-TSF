@@ -5,3 +5,4 @@ This repository contains the project done as a part of my internship with The Sp
 |-----|-----------|
 |Task #2|Supervised Machine Learning using Linear Regression|
 |Task #3|Unsupervised Machine Learning using K Means Clustering|
+|Task #4|Decison Tree Algorithm|
